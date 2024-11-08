@@ -53,7 +53,7 @@ const Home = function () {
     useChange([this.search, this.current], () => {
         if (this.search) {
             if (this.tabs[this.current].hasOwnProperty("url")) {
-                this.search.value = this.tabs[this.current].url;
+                this.search.value = this.tabs[this.current].url || "";
             } else {
                 this.search.value = "";
             }
@@ -81,7 +81,7 @@ const Home = function () {
             );
             if (this.search) {
                 if (this.tabs[this.current].hasOwnProperty("url")) {
-                    this.search.value = this.tabs[this.current].url;
+                    this.search.value = this.tabs[this.current].url || "";
                 } else {
                     this.search.value = "";
                 }
@@ -172,7 +172,7 @@ const Home = function () {
 
                 if (decodedLocation !== this.tabs[this.current].url) {
                     this.tabs[this.current].url = decodedLocation;
-                    this.search.value = decodedLocation;
+                    this.search.value = decodedLocation || "";
                 }
 
                 let newTitle =
