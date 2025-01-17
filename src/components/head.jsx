@@ -8,7 +8,7 @@ const Head = function () {
         if (this.cloakTitle) {
             document.title = this.cloakTitle;
         } else {
-            document.title = "nano.";
+            document.title = "∧non.";
         }
         localStorage.setItem("@nano/cloak/title", this.cloakTitle);
     });

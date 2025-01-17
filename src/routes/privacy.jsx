@@ -26,7 +26,7 @@ const Privacy = function () {
             <section class="mb-6">
                 <h2 class="text-2xl font-semibold mb-4">Introduction</h2>
                 <p>
-                    nano. ("we," "us," "our") is committed to protecting your
+                    Anon. ("we," "us," "our") is committed to protecting your
                     privacy. This Privacy Policy outlines our practices
                     regarding the collection, use, and protection of information
                     when you use our web-proxy service.
@@ -116,8 +116,8 @@ const Privacy = function () {
                 <p>
                     For questions or concerns about this Privacy Policy, please
                     contact us at:{" "}
-                    <a href="mailto:nebelung@mailfence.com">
-                        nebelung@mailfence.com
+                    <a href="mailto:anon@lixr.tech">
+                        anon@lixr.tech
                     </a>
                 </p>
             </section>

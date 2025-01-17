@@ -28,7 +28,7 @@ const Terms = function () {
                     1. Acceptance of Terms
                 </h2>
                 <p>
-                    By using the nano. service, you agree to these Terms of
+                    By using the Anon. service, you agree to these Terms of
                     Service. If you do not agree, do not use our service.
                 </p>
             </section>
@@ -38,7 +38,7 @@ const Terms = function () {
                     2. Service Description
                 </h2>
                 <p>
-                    nano. provides a web-proxy service that allows users to
+                    Anon. provides a web-proxy service that allows users to
                     access web content anonymously.
                 </p>
             </section>
@@ -63,7 +63,7 @@ const Terms = function () {
             <section class="mb-6">
                 <h2 class="text-2xl font-semibold mb-4">4. No Warranty</h2>
                 <p>
-                    nano. does not guarantee the service’s availability,
+                    Anon. does not guarantee the service’s availability,
                     accuracy, or reliability. We are not responsible for any
                     issues arising from third-party content accessed through the
                     service.
@@ -75,7 +75,7 @@ const Terms = function () {
                     5. Limitation of Liability
                 </h2>
                 <p>
-                    nano. is not liable for any indirect, incidental, or
+                    Anon. is not liable for any indirect, incidental, or
                     consequential damages resulting from the use of the service.
                 </p>
             </section>
@@ -114,8 +114,8 @@ const Terms = function () {
                 </h2>
                 <p>
                     For inquiries about these Terms of Service, please contact:{" "}
-                    <a href="mailto:nebelung@mailfence.com">
-                        nebelung@mailfence.com
+                    <a href="mailto:anon@lixr.tech">
+                        anon@lixr.tech
                     </a>
                 </p>
             </section>
